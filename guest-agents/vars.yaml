@@ -3,7 +3,7 @@ QEMU_VERSION: 10.1.2
 QEMU_SHA256: 9d75f331c1a5cb9b6eb8fd9f64f563ec2eab346c822cb97f8b35cd82d3f11479
 QEMU_SHA512: 4defbcb78f65ba3d8079466bdb3ab29e26f10129723e045d34901e7d524656e5ff729dc97fb33537febe2596eb0b21a02aadd88007eb5b226e599bd236213263
 # renovate: datasource=git-tags depName=https://gitlab.gnome.org/GNOME/glib.git
-GLIB_VERSION: 2.86.1
+GLIB_VERSION: 2.87.0
 GLIB_SHA256: 119d1708ca022556d6d2989ee90ad1b82bd9c0d1667e066944a6d0020e2d5e57
 GLIB_SHA512: b2e9a3a35cd4cbe0bb6ca493a4250df480eeb0570a0877880ff4ec6d7f1f98d828249b3b60f839b81f17a33494d95be9d42b5f20fa6bb1acb15bcf5734adba51
 # renovate: datasource=github-releases extractVersion=^pcre2-(?<version>.*)$ depName=PCRE2Project/pcre2

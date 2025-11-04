@@ -1,7 +1,7 @@
 VERSION: v0.1.1
 
 # renovate: datasource=git-tags extractVersion=^v(?<version>.*)$ depName=https://gitlab.gnome.org/GNOME/libxml2.git
-LIBXML2_VERSION: 2.13.5
+LIBXML2_VERSION: 2.15.1
 LIBXML2_SHA256: 74fc163217a3964257d3be39af943e08861263c4231f9ef5b496b6f6d4c7b2b6
 LIBXML2_SHA512: acaecd4e3e95136d1c621f9e5f33976ebca87dfbf83859459e339597c3c57fbc47508a7de16af7fbf0e7e7c59fd6f9a82b2e732e1dd12efd79d666bac64ecf4e
 
