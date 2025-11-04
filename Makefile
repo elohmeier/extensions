@@ -1,6 +1,6 @@
 # THIS FILE WAS AUTOMATICALLY GENERATED, PLEASE DO NOT EDIT.
 #
-# Generated on 2025-11-06T12:58:59Z by kres 4ba9b0c.
+# Generated on 2025-11-07T06:06:43Z by kres 4ba9b0c.
 
 # common variables
 
@@ -105,6 +105,7 @@ TARGETS += nvidia-open-gpu-kernel-modules-lts
 TARGETS += nvidia-open-gpu-kernel-modules-production
 TARGETS += nvme-cli
 TARGETS += panfrost
+TARGETS += pivccu
 TARGETS += qemu-guest-agent
 TARGETS += qlogic-firmware
 TARGETS += realtek-firmware

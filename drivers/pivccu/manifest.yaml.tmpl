@@ -1,0 +1,10 @@
+version: v1alpha1
+metadata:
+  name: pivccu
+  version: "{{ .VERSION }}"
+  author: OpenCCU Community
+  description: |
+    [{{ .TIER }}] This system extension provides the Homematic/piVCCU kernel modules and udev rules so Talos Linux nodes can expose Homematic RF adapters (USB or GPIO) to OpenCCU workloads.
+  compatibility:
+    talos:
+      version: ">= v1.4.5"
